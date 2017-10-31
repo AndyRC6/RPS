@@ -1,0 +1,9 @@
+#player-1-box, #player-2-box, #result-box{
+	border:solid;
+	margin: 20px;
+	height:300px;
+
+}
+#header-text{
+	text-align:center;
+}
